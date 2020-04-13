@@ -1,4 +1,8 @@
-<?php require_once 'cabecalho.php' ?>
+<?php require_once 'cabecalho.php'; ?>
+<?php
+require_once 'global.php'
+
+?>
 <div class="row">
     <div class="col-md-12">
         <h2>Produtos</h2>

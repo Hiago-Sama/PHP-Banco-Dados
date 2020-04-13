@@ -2,7 +2,6 @@
 <?php
     $categoria = new Categoria();
     $lista = $categoria->listar();
-    print_r($lista);
 ?>
 <?php require_once 'cabecalho.php' ?>
 <div class="row">
